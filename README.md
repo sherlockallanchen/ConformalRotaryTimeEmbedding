@@ -8,6 +8,5 @@ This code example is self-contained and instructive, trained on Huggingface's bi
 The interactive notebook is hosted on Kaggle.  
 [🔗 Open Official CRTE Example on Kaggle](https://www.kaggle.com/code/allanchen2024/official-crte-example)
 
-![Notebook screenshot](screenshot.png)
 
 For any question, please create a new Issue, or contact me via email: **sherlock@hilbate.cn**
